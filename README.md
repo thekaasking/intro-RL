@@ -1,6 +1,6 @@
 # Introduction to Reinforcement Learning
 
-This repository contains my assignments for the Introduction to Reinforcement Learning course. Each assignment explores different reinforcement learning concepts and algorithms.
+This repository contains my assignments for the Introduction to Reinforcement Learning course (2021). Each assignment explores different reinforcement learning concepts and algorithms.
 
 ## Assignments
 
